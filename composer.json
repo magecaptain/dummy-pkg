@@ -29,8 +29,8 @@
   "minimum-stability": "dev",
   "repositories": [
       {
-        "type": "composer",
-        "url": "https://repo.packagist.org/packages/magecaptain/dummy-pkg"
+        "type": "git",
+        "url": "https://github.com/magecaptain/module-formbuilder.git"
       }
    ]
 }
