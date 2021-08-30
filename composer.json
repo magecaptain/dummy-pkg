@@ -1,18 +1,29 @@
 {
-    "name": "magecaptain/dummy-pkg",
-    "autoload": {
-        "psr-4": {
-            "Magecaptain\\DummyPkg\\": ""
-        },
-        "files": [
-            "registration.php"
-        ]
-    },
-    "description": "Preventing Dependency Confusion in PHP with Composer",
-    "type": "magento2-module",
-    "version": "1.0.0",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ]
+  "name": "magecaptain/dummy-pkg",
+  "description": "Preventing Dependency Confusion in PHP with Composer",
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0"
+  },
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "MageCaptain",
+      "email": "support@magecaptain.com",
+      "homepage": "https://magecaptain.com/",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magecaptain\\DummyPkg\\": ""
+    }
+  }
 }
