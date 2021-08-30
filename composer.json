@@ -28,7 +28,7 @@
   },
   "repositories": [
         {
-            "type": "vcs",
+            "type": "composer",
             "url": "https://github.com/magecaptain/dummy-pkg"
         }
     ]
