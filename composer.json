@@ -26,6 +26,7 @@
       "Magecaptain\\DummyPkg\\": ""
     }
   },
+  "minimum-stability": "stable",
   "repositories": [
         {
             "type": "composer",
