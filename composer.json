@@ -25,5 +25,11 @@
     "psr-4": {
       "Magecaptain\\DummyPkg\\": ""
     }
-  }
+  },
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/magecaptain/dummy-pkg"
+        }
+    ]
 }
