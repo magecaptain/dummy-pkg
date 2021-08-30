@@ -27,10 +27,5 @@
     }
   },
   "minimum-stability": "stable",
-  "repositories": [
-        {
-            "type": "composer",
-            "url": "https://github.com/magecaptain/dummy-pkg"
-        }
-    ]
+  "homepage": "https://github.com/magecaptain/dummy-pkg"
 }
