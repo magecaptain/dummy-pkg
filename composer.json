@@ -30,7 +30,7 @@
   "repositories": [
       {
         "type": "composer",
-        "url": "https://repo.magento.com/"
+        "url": "https://repo.packagist.org/packages/magecaptain/dummy-pkg"
       }
    ]
 }
