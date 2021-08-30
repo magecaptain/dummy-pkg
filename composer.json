@@ -25,5 +25,11 @@
     "psr-4": {
       "Magecaptain\\DummyPkg\\": ""
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "repositories": [
+      {
+        "type": "composer",
+        "url": "https://github.com/magecaptain/dummy-pkg"
+   }
 }
