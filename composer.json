@@ -26,11 +26,11 @@
       "Magecaptain\\DummyPkg\\": ""
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "repositories": [
       {
         "type": "composer",
-        "url": "https://github.com/magecaptain/dummy-pkg"
+        "url": "https://repo.magento.com/"
       }
    ]
 }
